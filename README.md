@@ -30,8 +30,8 @@ The dataset, `Marketing_data.csv`, includes information pertinent to marketing c
 ### 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/27abhishek27/Marketing_Department_Project.git
-cd Marketing_Department_Project
+git clone https://github.com/Supratim0406/arketing-Department-Project.git
+cd arketing-Department-Project
 ```
 
 ### 2️⃣ Install dependencies:
